@@ -1,1 +1,3 @@
-# Calculatpr-Tkinter
+# Calculator-Tkinter
+
+Basic Calculator using tkinter
